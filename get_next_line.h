@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ancengiz <ancengiz@student.42.fr>          +#+  +:+       +#+        */
+/*   By: hakdemir <hakdemir@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/12/14 02:58:49 by ancengiz          #+#    #+#             */
-/*   Updated: 2024/12/14 02:58:49 by ancengiz         ###   ########.fr       */
+/*   Created: 2024/12/18 10:36:30 by hakdemir          #+#    #+#             */
+/*   Updated: 2024/12/18 10:36:30 by hakdemir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
